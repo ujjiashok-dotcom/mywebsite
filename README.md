@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BIRTHDAY</title>
+    <style>
+        body {
+           background-color: #db5166; 
+           font-family: "comic sans MS";
+           padding-left: 200px;
+           padding-right: 200px
+        }
+        h1 {
+            text-align: centre;
+            font-size: 60px;
+            color: darkblue;
+        }
+    </style>
+</head>
+<h1>BIRTHDAY WISHES</h1> 
+<h2>TO MY BEAUTIFUL SISTER ,</h2>
+<body> 
+ Happy Birthday to the sister I chose, not by blood, but by something far greater—friendship and trust. Even though I am your brother not by birth but by heart, our bond is one of the most important parts of my life. You have stood by me, supported me, and laughed with me through thick and thin.You are truly the sister I never knew I needed. Thank you for bringing so much joy, inspiration, and adventure into my world. You always push me to be better, pick me up when I'm down, and cheer me on through every challenge. Our memories together are priceless, and every day with you reminds me that family is built by love and loyalty, not just by blood.On your birthday, I wish you endless happiness and all the biggest dreams your heart can hold. May your year ahead be filled with laughter, love, and success. Remember, you will always have a brother by your side, proud of all you've accomplished and cheering you on every step of the way.Happy Birthday, GREESHMA VARSHITA Celebrate big—you deserve it all.
+</body>
+
+</html>
